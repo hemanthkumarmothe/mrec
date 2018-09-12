@@ -1,8 +1,16 @@
 hi this is the second session in DevOps
 have a great day
 wait for a minute
+<<<<<<< HEAD
 
  
 
 why are you so hurry 
 bye
+=======
+<<<<<<< HEAD
+why you are so hurry
+bye 
+=======
+>>>>>>> parent of 762bd05... hurry
+>>>>>>> parent of 9e950f5... hurry
